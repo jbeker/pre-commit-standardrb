@@ -1,0 +1,6 @@
+- id: standardrb
+  name: Check Ruby files with StandardRB
+  description: Standard - Ruby style guide, linter, and formatter
+  entry: standardrb
+  language: ruby
+  types: ["ruby"]
