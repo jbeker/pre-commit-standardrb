@@ -2,6 +2,5 @@
   name: Check Ruby files with StandardRB
   description: Standard - Ruby style guide, linter, and formatter
   entry: standardrb
-  pass_filenames: false
   language: ruby
   types: ["ruby"]
